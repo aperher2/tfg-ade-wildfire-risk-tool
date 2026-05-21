@@ -1,11 +1,16 @@
-# tfg-ade-wildfire-risk-tool
+# TFG ADE - Wildfire Risk Tool
 Final degree project focused on wildfire risk analysis and prevention in the Valencian Community.
-Statistical tool for wildfire risk management and prevention in the Valencian Community.
 
-## Technologies
-- R
+## Contents
+- R scripts
 - Statistical analysis
-- Data visualization
+- Custom wildfire dataset
 
-## Objective
-Develop a statistical tool to support wildfire risk management and prevention.
+## Technologies & Methods
+- R
+- Statistical modelling
+- Generalized Additive Models (GAM)
+- GAM-Logit
+- GAM-Gamma
+- Spatial Cross-Validation
+- DHARMa residual diagnostics
